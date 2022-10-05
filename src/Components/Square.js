@@ -7,3 +7,5 @@ function Square(props) {
       </button>
     );
   }
+
+  export default Square;
